@@ -1,0 +1,8 @@
+Create/Library/
+Create/Logs/
+Create/ProjectSettings/
+Load/ProjectSettings/
+Load/UserSettings/
+Create/UserSettings/
+*.vsconfig
+*.sln
